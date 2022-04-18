@@ -1,0 +1,3 @@
+#activity-history-v2 table tr:nth-child(n+4) {
+    display: none;
+}
