@@ -1,0 +1,151 @@
+.widget .header {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        padding: 0px !important;
+        position: static !important;
+        width: 1001px !important;
+        height: 19px !important;
+        left: 0px !important;
+        top: 32px !important;
+        flex: none !important;
+        order: 0 !important;
+        flex-grow: 0 !important;
+        margin: 40px 0px !important;
+        background-color: white !important;
+        border-bottom: none !important;
+      }
+      .widget .header h1 {
+        position: static !important;
+        width: 1001px !important;
+        height: 19px !important;
+        left: 0px !important;
+        top: 0px !important;
+        font-family: 'Knockout' !important;
+        font-style: normal !important;
+        font-weight: 400 !important;
+        font-size: 24px !important;
+        line-height: 80% !important;
+        text-transform: uppercase !important;
+        font-feature-settings: 'ss02' on !important;
+        color: #000000 !important;
+        flex: none !important;
+        order: 0 !important;
+        flex-grow: 0 !important;
+        margin: 16px 0px !important;
+      }
+      .widget .container {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        padding: 0px !important;
+        position: static !important;
+        width: 1001px !important;
+        height: 246px !important;
+        left: 0px !important;
+        top: 91px !important;
+        flex: none !important;
+        order: 1 !important;
+        flex-grow: 0 !important;
+        margin: 40px 0px !important;
+      }
+      #activity-list-v2 ul{
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: flex-start !important;
+        padding: 0px !important;
+        position: static !important;
+        width: 1001px !important;
+        height: 246px !important;
+        left: 0px !important;
+        top: 0px !important;
+        flex: none !important;
+        order: 0 !important;
+        flex-grow: 0 !important;
+        margin: 32px 0px !important;
+      }
+      #activity-list-v2 .activity  {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        padding: 0px 0px 16px !important;
+        position: static !important;
+        width: 323px !important;
+        height: 246px !important;
+        left: 0px !important;
+        top: 0px !important;
+        background: #FFFFFF !important;
+        border-radius: 0px 0px 4px 4px !important;
+        flex: none !important;
+        order: 1 !important;
+        align-self: stretch !important;
+        flex-grow: 0 !important;
+        margin: 0px 0px !important;
+        border-bottom: none !important;
+      }
+      #activity-list-v2 .image-container {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        padding: 16px !important;
+        position: static !important;
+        width: 323px !important;
+        height: 206px !important;
+        left: calc(50% - 323px/2) !important;
+        top: 0px !important;
+        flex: none !important;
+        order: 0 !important;
+        align-self: stretch !important;
+        flex-grow: 0 !important;
+        margin: 8px 0px !important;
+        border-radius: 0px !important;
+      }
+      #activity-list-v2 .image-container img {
+        position: static !important;
+        width: 291px !important;
+        height: 174px !important;
+        left: 16px !important;
+        top: 16px !important;
+        flex: none !important;
+        order: 0 !important;
+        align-self: stretch !important;
+        flex-grow: 0 !important;
+        margin: 10px 0px !important;
+      }
+      #activity-list-v2 .info-container  {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        padding: 0px !important;
+        position: static !important;
+        width: 294px !important;
+        height: 16px !important;
+        left: calc(50% - 294px/2) !important;
+        top: 214px !important;
+        flex: none !important;
+        order: 1 !important;
+        flex-grow: 0 !important;
+        margin: 8px 0px !important;
+      }
+      #activity-list-v2 .activity .title, .ct-link-color {
+        position: static !important;
+        height: 16px !important;
+        left: 0px !important;
+        top: 0px !important;
+        font-family: 'Knockout' !important;
+        font-style: normal !important;
+        font-weight: 400 !important;
+        font-size: 20px !important;
+        line-height: 80% !important;
+        text-transform: uppercase !important;
+        font-feature-settings: 'ss02' on !important;
+        color: #000000 !important;
+        flex: none !important;
+        order: 0 !important;
+        align-self: stretch !important;
+        flex-grow: 0 !important;
+        margin: 16px 0px !important;
+      }
+      #activity-list-v2 > div.container > ul > li > div.info-container > div {
+        display: none;
+      }
