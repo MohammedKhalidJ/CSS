@@ -1,3 +1,16 @@
+#ct-modal {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        padding: 24px 24px 40px !important;
+        position: absolute !important;
+        height: 784px !important;
+        left: 27.01% !important;
+        right: 27.01% !important;
+        top: calc(50% - 784px/2 + 37px) !important;
+        background: #FFFFFF !important;
+        border-radius: 4px !important;
+      }
 #ct-modal > button {
         position: absolute !important;
         left: 22.05% !important;
