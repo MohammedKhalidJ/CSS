@@ -10,6 +10,8 @@
         top: calc(50% - 784px/2 + 37px) !important;
         background: #FFFFFF !important;
         border-radius: 4px !important;
+        max-width: 662px !important;
+}
       }
 #ct-modal > button {
         position: absolute !important;
