@@ -1,4 +1,14 @@
-      .widget .header {
+
+#ct-modal > button{
+    position: absolute !important;
+    right: 20px !important;
+    top: 25px !important;
+    bottom: 0px !important;
+    padding: 5px 5px 0px 0px !important;
+    color: #000000 !important;
+    font-size: 16px !important;
+}      
+.widget .header {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
