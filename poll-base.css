@@ -73,7 +73,6 @@ body {
       #activity-list-v2 .activity  {
         display: flex !important;
         flex-direction: column !important;
-        align-items: center !important;
         padding: 0px 0px 16px !important;
         position: static !important;
         width: 323px !important;
@@ -88,6 +87,7 @@ body {
         flex-grow: 0 !important;
         margin: 0px 0px !important;
         border-bottom: none !important;
+         margin-left: 10px !important;
       }
       #activity-list-v2 .image-container {
         display: flex !important;
@@ -133,6 +133,7 @@ body {
         order: 1 !important;
         flex-grow: 0 !important;
         margin: 0px !important;
+        margin-left: 20px !important;
       }
       #activity-list-v2 .activity .title, .ct-link-color {
         position: static !important;
