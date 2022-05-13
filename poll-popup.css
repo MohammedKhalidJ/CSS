@@ -37,6 +37,7 @@
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
+        margin-top: 30px !important;
       }
       #poll-v2 .description {
         position: static !important;
