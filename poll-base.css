@@ -1,3 +1,6 @@
+body {
+        background-color: #E5E5E5 !important;
+}
 .widget .header {
         display: flex !important;
         flex-direction: column !important;
