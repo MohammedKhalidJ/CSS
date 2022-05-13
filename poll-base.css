@@ -132,7 +132,7 @@ body {
         flex: none !important;
         order: 1 !important;
         flex-grow: 0 !important;
-        margin: 8px 0px !important;
+        margin: 0px !important;
       }
       #activity-list-v2 .activity .title, .ct-link-color {
         position: static !important;
@@ -151,7 +151,7 @@ body {
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin: 16px 0px !important;
+        margin: 0px !important;
       }
       #activity-list-v2 > div.container > ul > li > div.info-container > div {
         display: none;
