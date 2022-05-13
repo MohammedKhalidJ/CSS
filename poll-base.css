@@ -48,8 +48,10 @@
         order: 1 !important;
         flex-grow: 0 !important;
         margin: 40px 0px !important;
-        background-color: #E5E5E5 !important;
       }
+#activity-list-v2 {
+      background-color: #E5E5E5 !important;
+}
       #activity-list-v2 ul{
         display: flex !important;
         flex-direction: row !important;
