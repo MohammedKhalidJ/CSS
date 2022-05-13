@@ -232,7 +232,7 @@
         margin: 0px 0px !important;
         color: #FFFFFF !important;
       }
-#poll-v2 .question-container .image-wrapper img {
+#poll-v2 .question-container .image-wrapper {
     display: flex !important;
     flex-direction: column !important;
     align-items: flex-start !important;
