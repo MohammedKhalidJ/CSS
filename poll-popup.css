@@ -230,7 +230,7 @@
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin: 0px 0px !important;
+        margin: 0px 0px 0px 150px !important;
         color: #FFFFFF !important;
       }
 #poll-v2 .question-container .image-wrapper {
