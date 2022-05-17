@@ -39,6 +39,9 @@
         flex-grow: 0 !important;
         margin-top: 30px !important;
       }
+#quiz-v2 .points-header .points {
+    display: none !important;
+}
       #poll-v2 .description {
         position: static !important;
         left: 1.3% !important;
