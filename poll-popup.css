@@ -66,6 +66,7 @@
         top: 0px !important;
         bottom: 0px !important;
         border: 1px solid #DADDDE !important;
+        margin: 10px !important;
       }
       #question-text {
         display: flex !important;
