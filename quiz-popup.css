@@ -343,7 +343,6 @@
         order: 1 !important;
         flex-grow: 0 !important;
         margin-top: 0px !important;
-        margin-left: 50px !important;
       }
       #quiz-v2 .progress{
         display: flex !important;
