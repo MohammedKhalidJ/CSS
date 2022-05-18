@@ -398,6 +398,7 @@
         background-color: #fff !important;
         color: rgba(25, 28, 35, 0.9) !important;
         text-transform: capitalize !important;
+        padding: 8px !important;
       }
       #quiz-v2 .buttons__right {
         box-sizing: border-box !important;
