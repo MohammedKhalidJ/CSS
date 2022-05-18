@@ -115,7 +115,6 @@
         order: 4 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin: 16px 0px !important;
       }
       #poll-v2 > div.container > form > fieldset > div.question-container.question-type-radio > div > div.answer-container > span > ul {
         display: flex !important;
