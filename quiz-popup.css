@@ -281,34 +281,28 @@
         margin: 0px 0px !important;
         color: #ffffff !important;
       }
-      #quiz-v2 > div.container > form > fieldset > ul > li:nth-child(1) > div > div > div.answer-container {
+      #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
         padding: 8px !important;
         gap: 16px !important;
         width: 602px !important;
-        /* height: 272px !important; */
         flex: none !important;
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin-top: 12px !important;
+        margin-top: 0px !important;
       } 
       #quiz-v2 .answer-options .answer-option-text {
         display: inline-block !important;
-        /* flex-direction: column !important;
-        align-items: flex-start !important; */
         padding: 0px !important;
         gap: 4px !important;
         width: 574px !important;
         height: 17px !important;
         vertical-align: 3px !important;
-        /* flex: none !important;
-        order: 1 !important;
-        flex-grow: 1 !important; */
       }
-      #quiz-v2 > div.container > form > fieldset > ul > li:nth-child(1) > div > div > div.answer-container > ul > li > div > label > span{
+      #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul > li > div > label > span{
         width: 574px !important;
         height: 17px !important;
         font-family: 'Roboto' !important;
@@ -324,12 +318,12 @@
         align-self: stretch !important;
         flex-grow: 0 !important;
       }
-      #quiz-v2 > div.container > form > fieldset > ul > li:nth-child(1) > div > div > div.answer-container > ul {
+      #quiz-v2 > div.container > form > fieldset > ul > li > div > div > div.answer-container > ul {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
         padding: 8px 0px 0px !important;
-        gap: 16px !important;
+        gap: 0px !important;
         width: 602px !important;
         height: 32px !important;
         flex: none !important;
@@ -337,7 +331,6 @@
         align-self: stretch !important;
         flex-grow: 0 !important;
       }
-
       #quiz-v2 .buttons{
         display: flex !important;
         flex-direction: row !important;
@@ -350,6 +343,7 @@
         order: 1 !important;
         flex-grow: 0 !important;
         margin-top: 0px !important;
+        margin-left: 50px !important;
       }
       #quiz-v2 .progress{
         display: flex !important;
