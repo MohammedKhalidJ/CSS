@@ -260,7 +260,9 @@
         order: 5 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
-        margin: 16px 0px !important;
+        margin-top: 16px !important;
+        margin-bottom: 16px !important;
+        margin-left: 140px !important;
       }
       #quiz-v2 .submit-container button {
         display: flex !important;
