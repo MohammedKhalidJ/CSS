@@ -339,12 +339,13 @@
         align-items: center !important;
         padding: 0px !important;
         gap: 8px !important;
-        width: 375px !important;
+        width: 100% !important;
         height: 104px !important;
         flex: none !important;
         order: 1 !important;
         flex-grow: 0 !important;
         margin-top: 0px !important;
+        justify-content: center !important;
       }
       #quiz-v2 .progress{
         display: flex !important;
@@ -367,8 +368,7 @@
       }
       #quiz-v2 .buttons__left{
         box-sizing: border-box !important;
-        display: flex !important;
-        flex-direction: column !important;
+        display: inline !important;
         align-items: center !important;
         padding: 4px 4px !important;
         gap: 8px !important;
@@ -381,8 +381,11 @@
         align-self: stretch !important;
         flex-grow: 0 !important;
         color: rgba(25, 28, 35, 0.9) !important;
-        margin-top: 50px !important;
         background: #FFFFFF !important;
+        z-index: 1000 !important;
+        margin-right: 180px !important;
+        position: absolute !important;
+        margin-top: 30px !important;
       }
       #quiz-v2 > div.container > form > fieldset > div > div.buttons__left > button {
         font-family: 'Roboto Condensed' !important;
@@ -397,8 +400,7 @@
       }
       #quiz-v2 .buttons__right {
         box-sizing: border-box !important;
-        display: flex !important;
-        flex-direction: column !important;
+        display: inline !important;
         align-items: center !important;
         padding: 4px 4px !important;
         gap: 8px !important;
@@ -412,6 +414,11 @@
         margin-top: 50px !important;
         background: #191c23 !important;
         color:#fff !important;
+        display: inline !important;
+        z-index: 1000 !important;
+        margin-left: 180px !important;
+        position: absolute !important;
+        margin-top: 30px !important;
       }
       #quiz-v2 > div.container > form > fieldset > div > div.buttons__right > button {
         font-family: 'Roboto Condensed' !important;
