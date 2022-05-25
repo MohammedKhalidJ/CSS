@@ -155,6 +155,8 @@ body {
         align-self: stretch !important;
         flex-grow: 0 !important;
         margin: 0px !important;
+        text-align: left !important;
+        margin-left: 16px !important;
       }
       #activity-list-v2 > div.container > ul > li > div.info-container > div {
         display: none;
