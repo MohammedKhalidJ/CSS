@@ -54,6 +54,7 @@ body {
       }
 #activity-list-v2 {
       background-color: #E5E5E5 !important;
+      overflow: hidden !important;
 }
       #activity-list-v2 ul{
         display: flex !important;
