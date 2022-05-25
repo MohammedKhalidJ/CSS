@@ -162,5 +162,5 @@ body {
             margin-bottom: 80px !important;
        }
        #activity-list-v2 > div.container > ul > li:not(:first-child){
-            margin-left: 20px;
+            margin-left: 20px !important;
        }
