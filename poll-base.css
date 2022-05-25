@@ -76,7 +76,7 @@ body {
         flex-direction: column !important;
         padding: 0px 0px 16px !important;
         position: static !important;
-        width: 323px !important;
+        width: 313px !important;
         height: 246px !important;
         left: 0px !important;
         top: 0px !important;
@@ -96,7 +96,7 @@ body {
         align-items: flex-start !important;
         padding: 10px !important;
         position: static !important;
-        width: 323px !important;
+        width: 313px !important;
         height: 206px !important;
         left: calc(50% - 323px/2) !important;
         top: 0px !important;
