@@ -158,3 +158,6 @@ body {
       #activity-list-v2 > div.container > ul > li > div.info-container > div {
         display: none;
       }
+       #activity-list-v2 > div.header.ct-header-color {
+            margin-bottom: 80px !important;
+       }
