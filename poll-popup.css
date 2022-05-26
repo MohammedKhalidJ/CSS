@@ -265,3 +265,10 @@
       #poll-v2 .success-container .ct-chart {
         border: none !important;
       }
+      #poll-v2 > div.container > div > p.success-message.ng-binding {
+        display: none !important;
+      }
+      #poll-v2 > div.container > div > p.success-message.ng-scope {
+        margin-top: 20px !important;
+        margin-left: 16px !important;
+      }
