@@ -5,7 +5,7 @@
         padding: 0px 8px !important;
         position: static !important;
         width: 614px !important;
-        height: 85px !important;
+/*         height: 85px !important; */
         left: 24px !important;
         top: 64px !important;
         flex: none !important;
@@ -243,3 +243,25 @@
     order: 1 !important;
     flex-grow: 0 !important;
 }
+.ct-series .ct-bar {
+        stroke: #1D428A !important;
+      }
+      .ct-chart-bar.ct-horizontal-bars .ct-label.ct-vertical.ct-start {
+        font-family: 'Roboto' !important;
+        font-style: normal !important;
+        font-weight: 400 !important;
+        font-size: 14px !important;
+        line-height: 120% !important;
+        color: #000 !important;
+      }
+      .ct-chart-bar.ct-horizontal-bars .ct-label.ct-horizontal.ct-end {
+        font-family: 'Roboto' !important;
+        font-style: normal !important;
+        font-weight: 400 !important;
+        font-size: 12px !important;
+        line-height: 120% !important;
+        color: #4E5356 !important;
+      }
+      #poll-v2 .success-container .ct-chart {
+        border: none !important;
+      }
