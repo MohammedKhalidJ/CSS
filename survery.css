@@ -1,0 +1,141 @@
+.widget .header {
+    background-color: white !important;
+    border: none !important;
+}
+
+.widget .header h1,
+.widget .header h3 {
+    width: 598px;
+    height: 26px;
+
+    /* nba/headline-05 */
+
+    font-family: 'Knockout';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px !important;
+    line-height: 80% !important;
+    /* identical to box height, or 26px */
+
+    text-transform: uppercase !important;
+    font-feature-settings: 'ss02' on;
+}
+
+ .container hr {
+    border: 1px solid #DADDDE !important;
+}
+
+ .container .description {
+    width: 598px;
+    height: 17px;
+
+    /* nba/body-00 */
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+}
+
+ .question-container .question-text, legend {
+    width: 236px;
+    height: 19px;
+
+    /* ios/body--strong-01 */
+
+    font-family: 'SF Pro Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px !important;
+    line-height: 120%;
+    margin-top: 16px !important;
+    margin-bottom: 35px;
+}
+
+ .question-container .directions {
+    display: none;
+}
+
+ .question-container .image-wrapper {
+    vertical-align: text-top !important;
+
+}
+
+ .answer-options .answer-option-text {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    vertical-align: middle;
+    /* width: 132px; */
+    /* height: 17px; */
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    /* line-height: 120%; */
+    /* display: flex; */
+    align-items: center;
+}
+
+ .question-type-radio label.answer-option-wrapper {
+    margin: 10px 0 !important;
+}
+
+ .submit-container {
+    float: none !important;
+}
+
+ .submit-container button {
+    margin-top: 24px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 12px 20px;
+    gap: 8px;
+
+    width: 327px;
+    height: 48px;
+
+    /* web--light/button */
+
+    background: rgba(25, 28, 35, 0.9);
+    border-radius: 4px;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flow-root !important;
+}
+
+.question-container input[type=text] {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 24px;
+    gap: 24px;
+
+    width: 598px;
+    height: 48px;
+
+    /* web--light/canvas */
+
+    background: #F3F4F5;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+#survey-v2 .image-enabled .image-wrapper img {
+    position: absolute;
+    top: 75%;
+}
