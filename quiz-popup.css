@@ -457,9 +457,9 @@
         display: flex !important;
         flex-direction: row !important;
         align-items: center !important;
-        padding: 16px !important;
+/*         padding: 16px !important; */
         width: 598px !important;
-        height: 66px !important;
+/*         height: 66px !important; */
         background: #FFFFFF !important;
         color: #000000 !important;
         flex: none !important;
