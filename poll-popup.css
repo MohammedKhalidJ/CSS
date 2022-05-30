@@ -231,6 +231,7 @@
         flex-grow: 0 !important;
         margin: 0px 0px 0px 150px !important;
         color: #FFFFFF !important;
+        text-transform: capitalize;
       }
 #poll-v2 .question-container .image-wrapper {
     display: flex !important;
