@@ -154,8 +154,8 @@ body {
             margin-left: 20px !important;
        }
         #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity:hover {
-            border: 1px solid #000;
+            border: 1px solid #000 !important;
         }
         #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity > div.image-container.ng-scope:hover {
-            border: 0px;
+            border: 0px !important;
         }
