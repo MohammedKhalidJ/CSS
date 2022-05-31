@@ -1,4 +1,7 @@
 /* Activity List ----------- */
+*{
+    box-sizing: unset !important;
+}
 .widget .header {
     display: none !important;
 }
