@@ -153,7 +153,7 @@ body {
        #activity-list-v2 > div.container > ul > li:not(:first-child){
             margin-left: 20px !important;
        }
-        #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity:hover {
+        #activity-list-v2 .activity:hover {
             border: 1px solid #000 !important;
         }
 /*         #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity #activity-list-v2 > div.container > ul > li.activity.ng-scope.ct-activity > div.image-container.ng-scope:hover {
