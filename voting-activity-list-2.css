@@ -76,8 +76,7 @@
 }
 
 .description {
-    font-size: 16px;
-    font-family: 'Effra', sans-serif;
+    display: none !important;
 }
 #activity-list-v2 > div.container > ul > li:not(:first-child){
     margin-left: 20px !important;
