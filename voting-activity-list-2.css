@@ -51,7 +51,7 @@
     max-height: 150px;
 /*     min-height: 110px; */
     margin: 0 5px;
-    text-align: center;
+    text-align: left !important;
 }
 
 #activity-list-v2 .activity .title {
