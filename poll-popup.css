@@ -1,4 +1,32 @@
-    .widget .header {
+@font-face {
+    font-family: 'Knockout';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    src: url("./Knockout-46.otf") format("otf");  
+}
+@font-face {
+    font-family: 'Knockout';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    src: url("./Knockout-46.otf") format("otf");  
+}
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    src: url("./Roboto-Regular.ttf") format("ttf");
+} 
+@font-face {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    src: url("./RobotoCondensed-Regular.ttf") format("ttf");
+} 
+.widget .header {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
