@@ -67,7 +67,8 @@
 }
 
 #activity-list-v2 .points-container {
-    text-align: center!important;
+    display: none !important;
+/*     text-align: center!important; */
 }
 
 .ct-link-color {
