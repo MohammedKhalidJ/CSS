@@ -20,12 +20,14 @@
 
 #activity-list-v2 .activity {
     display: inline-grid;
-    max-width: 230px;
+/*     max-width: 230px;
     min-width: 230px;
-    width: 100%;
+    width: 100%; */
     overflow: hidden;
     border-bottom: none;
     background: #fff;
+    width: 232px !important;
+    height: 292px !important;
 }
 
 #activity-list-v2 .activity:hover {
@@ -41,8 +43,10 @@
 
 #activity-list-v2 .image-container img {
     margin: auto;
-    width: 190px;
-    height: 200px;
+/*     width: 190px;
+    height: 200px; */
+    width: 232px !important;
+    height: 232px !important;
     padding: initial;
 }
 
