@@ -122,8 +122,9 @@ body {
 /*         margin: 10px 0px !important; */
       }
       #activity-list-v2 .info-container  {
-        display: flex !important;
-        flex-direction: column !important;
+        display: contents !important;
+/*         display: flex !important;
+        flex-direction: column !important; */
         align-items: flex-start !important;
         padding: 0px !important;
         position: static !important;
@@ -168,3 +169,18 @@ body {
        #activity-list-v2 > div.container > ul > li:not(:first-child){
             margin-left: 20px !important;
        }
+        #activity-list-v2 .activity:hover {
+            border: 1px solid #000 !important;
+        }
+        #activity-list-v2 .point-value.completed {
+            position: absolute !important;        
+        }
+        #activity-list-v2 .point-value.completed .fa-check-circle {
+            margin-left: 16px !important;
+            margin-right: 0px !important;
+        }
+        #activity-list-v2 .points-container {
+           float: none !important;
+           text-align: left !important;
+/*            position: absolute !important;         */
+        }
