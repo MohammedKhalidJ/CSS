@@ -2,6 +2,10 @@
     display: none !important;
 }
 
+#reward-list-v2 {
+   background-color: #E5E5E5 !important;
+}
+
 #reward-list-v2 .rewards .reward img {
     position: static !important;
     width: 291px !important;
