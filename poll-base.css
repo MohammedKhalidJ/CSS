@@ -3,22 +3,22 @@
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    src: url("/Knockout-46.otf") format("otf");  
+    src: url("./Knockout-46.otf") format("otf");  
 }
 @font-face {
     font-family: Knockout;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
-    src: url("/Knockout-46.otf") format("otf");  
+    src: url("./Knockout-46.otf") format("otf");  
 }
-@font-face {
+/* @font-face {
     font-family: Roboto;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    src: url("/Roboto-Regular.ttf") format("ttf");
-}
+    src: url("./Roboto-Regular.ttf") format("ttf");
+} */
 body {
         background-color: #E5E5E5 !important;
 }
