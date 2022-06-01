@@ -67,8 +67,8 @@
 }
 
 #activity-list-v2 .points-container {
-    display: none !important;
-/*     text-align: center!important; */
+    text-align: left !important;
+    margin-left: 16px !important;
 }
 
 .ct-link-color {
@@ -81,4 +81,7 @@
 }
 #activity-list-v2 > div.container > ul > li:not(:first-child){
     margin-left: 20px !important;
+}
+#activity-list-v2 .ct-points-color {
+    display: none !important;   
 }
