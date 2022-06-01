@@ -11,7 +11,7 @@
 }
 
 #activity-list-v2 {
-    text-align: center;
+    text-align: unset !important;
     margin: 0 auto;
     width: 100%;
     background-color: #E5E5E5 !important;
